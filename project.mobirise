@@ -1,0 +1,1941 @@
+{
+  "settings": {
+    "currentPage": "home.html",
+    "name": "tinshing.com.hk",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 69,
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/tin-shing-logo-red-128x134.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": ""
+  },
+  "pages": {
+    "serve.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "72px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-u",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "4",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/ts-cover2-1-2000x1334.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0",
+            "overlayColor": "#ff0066",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "<span style=\"line-height: 1.1;\">教授課程</span><br>",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-j",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": false,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">天盛道場</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">關於我們</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home.html\">道場會訓</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home.html#header3-5\">教學目的</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home.html#header3-7\">本會架構</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">教授課程</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"serve.html#header3-l\">本會道場</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"serve.html#header3-o\">教練資歷</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">社會責任</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"responsibility.html#header3-16\">Love &amp; Cares</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"responsibility.html#header3-19\">NamasteTaekwondo Team</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">道場資訊</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news.html#header3-1k\">獎項及相片集</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news.html#header3-1m\">推薦信</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/tinshing.dojang/?fref=ts\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/master_moonwing/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:master@tinshing.com.hk\" aria-expanded=\"false\"><span class=\"socicon socicon-mail mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px",
+              "color": "#ff0066"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-l",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "本會道場",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_inherit": "features1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features2",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#efefef"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "color": "#000000"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "color": "#000000"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#000000"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "features2-12",
+          "_params": {
+            "columnsColor": "#efefef",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "5",
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "desktop",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title1": "青衣幼童跆拳道班",
+          "subtitle1": "逢星期三下午3時至4時",
+          "caption1": "青衣體育館舞蹈室",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "mobile",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title2": "青衣小童跆拳道班",
+          "subtitle2": "逢星期五下午4時至5時30",
+          "caption2": "青衣楓樹窩體育館活動室",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "pencil",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title3": "青衣商會小學跆拳道",
+          "subtitle3": "逢星期五下午2時30至3時30",
+          "caption3": "學校禮堂",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title4": "雅麗珊社區中心跆拳道",
+          "subtitle4": "逢星期日晚上7時至8時30",
+          "caption4": "荃灣大河道60號雅麗珊社區中心會議室",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "跆拳道集訓班",
+          "subtitle5": "逢星期日晚上8時30至10時",
+          "caption5": "荃灣大河道60號雅麗珊社區中心會議室",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "features1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features2",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#000000"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "color": "#000000"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "color": "#000000"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "color": "#000000"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#000000"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "features2-v",
+          "_params": {
+            "columnsColor": "#ffffff",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "5",
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "desktop",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title1": "尖沙咀脊醫中心&nbsp;<div>小組健體班</div>",
+          "subtitle1": "逢星期一晚上7時",
+          "caption1": "九龍尖沙咀加拿分兗18號恆生尖沙咀大廈1108室",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "mobile",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title2": "尖沙咀脊醫中心&nbsp;<div>團體健體班</div>",
+          "subtitle2": "逢星期五晚上7時至10時",
+          "caption2": "香港九龍青山道646號豐華工業大廈三樓B座",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "pencil",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title3": "石硤尾 香港弱智人士家長聯會跆拳道班",
+          "subtitle3": "逢星期三晚上7時至8時30",
+          "caption3": "石硤尾南山邨香港弱智人士家長聯會毅行者社區教育中心",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title4": "葵涌 樂智協會<div>跆拳道班</div>",
+          "subtitle4": "逢星期三下午5時至6時",
+          "caption4": "葵涌大窩口道15號大窩口社區中心地下",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "灣仔 香港唐氏綜合症考會<div>跆拳道班</div>",
+          "subtitle5": "逢星期一下午五時至六時",
+          "caption5": "灣仔 軒尼詩道199-203號東華大廈1303-1304室",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px",
+              "color": "#ff0066"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-o",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "教練資歷",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".card-block P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "text-align": "left",
+              "font-size": "15px"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<p><span style=\"font-style: normal;\">曾獲取全港性跆拳道大賽：</span></p><p><span style=\"font-style: normal;\">2008年觀塘區跆拳道大賽~黑帶組搏擊冠軍</span></p><p><span style=\"font-style: normal; line-height: 2;\">2009年香港跆拳道協會全港跆拳道套拳賽~ 黑帶三段組冠軍</span></p><p><span style=\"font-style: normal;\">2009年屯門區跆拳道大賽~黑帶品勢組冠軍</span></p><p><span style=\"font-style: normal; line-height: 2;\">2010年香港跆拳道協會全港跆拳道套拳賽~ 黑帶四段組季軍</span></p><p><span style=\"font-style: normal;\">2010年觀塘區跆拳道大賽~黑帶組冠軍</span></p><p><span style=\"font-style: normal;\">2011年香港跆拳道協會全港跆拳道套拳賽~ 黑帶四段組亞軍</span></p><p><span style=\"font-style: normal;\">2011年觀塘區跆拳道大賽~黑帶品勢組組冠軍</span></p><p><span style=\"font-style: normal;\">2012年觀塘區跆拳道大賽~黑帶品勢組組冠軍</span></p><p><br></p><p><span style=\"font-style: normal;\">自1995年曾教授跆拳道，現正教授道場:</span></p><p><span style=\"font-style: normal;\">青衣體育館跆拳道幼兒班</span></p><p><span style=\"font-style: normal;\">青衣楓楓窩體育館跆拳道小童班</span></p><p><span style=\"font-style: normal;\">青衣商會小學跆拳道班</span></p><p><span style=\"font-style: normal;\">弱智人士家長聯會~跆拳道班</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">紅十字會急救証書</span></p><p><span style=\"font-style: normal;\">美國心臟協會健康從業人員基礎生命支持 心肺復甦法 (CPR) 及 </span></p><p><span style=\"font-style: normal;\">自動體外心臟去顫器 (AED)</span></p><p><span style=\"font-style: normal; line-height: 2;\">香港青年獎勵計劃: 銀章級 及 銅章級</span><br></p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/cmw-1-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "張滿榮 館長",
+              "authorBio": "天盛道場7段<br>香港跆拳道協會5段<br>世界跆拳道協會2段<br>"
+            },
+            {
+              "text": "<p>香港跆拳道協會初級教練</p><p>香港紅十字會急救證書</p><p>香港青年獎勵計劃~銀章級及銅章級</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/zch-2-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "余振豪 館長",
+              "authorBio": "天盛道場7段<br>香港跆拳道協會2段<br>世界跆拳道協會2段"
+            }
+          ],
+          "_anchor": "testimonials1-13",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "count": "2",
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showSubtitle": false
+          },
+          "title": "WHAT OUR FANTASTIC USERS SAY",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "20px",
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-q",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "黑帶成員",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content7-r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>胡莉明 </b>(&nbsp;副館長 )</p><p>天盛道場5段</p><p>香港跆拳道協會3段</p><p>世界跆拳道協會2段</p><p>香港紅十字會急救證書</p><p>澳門科技大學 心肺復甦法 (CPR) </p><p>自動體外心臟去顫器 (AED)</p>",
+          "text2": "<p><b>陳容川 </b>( 副館長 )</p><p>天盛道場5段</p><p>香港跆拳道協會3段</p><p>世界跆拳道協會2段</p><p>香港跆拳道協會三級搏擊裁判</p><p>香港紅十字會急救證書</p><p>澳門科技大學 心肺復甦法 (CPR) </p><p>自動體外心臟去顫器 (AED)</p>",
+          "text3": "<p><b>鈕建業&nbsp;</b>黑帶八段 ( 本會會長 )</p><p><b>蔡德昌&nbsp;</b>黑帶六段 ( 本會總監 )</p><p><b>區健民</b>黑帶四段</p><p><b>CHANROOP SINGH&nbsp;</b>黑帶二段</p><p>( NAMASTE TAEKWONDO TEAM 隊長 ) <b>LOVEDEEP SINGH</b> 黑帶二段</p><p>( NAMASTE TAEKWONDO TEAM 隊長 )</p><p><b>何翹原</b> 黑帶一段 ( 本會體適能顧問 )</p><p><b>黃燕明</b> 黑帶一段</p><p><b>霍兆琳</b> 黑帶一段</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-s",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ff0066",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/tin-shing-logo-128x134.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<br><a href=\"home.html\" class=\"text-white\">關於我們</a><br><br><a href=\"serve.html\" class=\"text-white\">教授課程</a><br>",
+          "text2": "<p><br>\n<a href=\"responsibility.html\" class=\"text-white\">社會責任</a><br><br><a href=\"news.html\" class=\"text-white\">道場資訊</a></p>",
+          "text3": "<br>Email:&nbsp;master@tinshing.com.hk<br>Phone: +852 9770 4642<br><a href=\"https://www.facebook.com/tinshing.dojang/?fref=ts\" class=\"text-white\">facebook</a><br><a href=\"https://www.instagram.com/master_moonwing/\" target=\"_blank\" class=\"text-white\">instagram</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-t",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#190073",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Tin Shing Dojang."
+        }
+      ]
+    },
+    "responsibility.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "72px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-14",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "4",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/ts-cover3-1-2000x1334.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0",
+            "overlayColor": "#ff0066",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "<span style=\"line-height: 1.1;\">社會責任</span><br>",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-15",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": false,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">天盛道場</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">關於我們</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home.html\">道場會訓</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home.html#header3-5\">教學目的</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home.html#header3-7\">本會架構</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">教授課程</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"serve.html#header3-l\">本會道場</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"serve.html#header3-o\">教練資歷</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">社會責任</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"responsibility.html#header3-16\">Love &amp; Cares</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"responsibility.html#header3-19\">NamasteTaekwondo Team</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">道場資訊</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news.html#header3-1k\">獎項及相片集</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news.html#header3-1m\">推薦信</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/tinshing.dojang/?fref=ts\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/master_moonwing/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:master@tinshing.com.hk\" aria-expanded=\"false\"><span class=\"socicon socicon-mail mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px",
+              "color": "#ff0066"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-16",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Love &amp; Cares",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1u",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>社區義務活動是本會主力發展項目之一，帶領學員參與各類型義工活動。我們於2016年已捐贈 文具及拖鞋到菲律賓山區學童。而本會亦於宣明會捐助非洲小朋 友''ANTONIO''。另外舉辦多次''派 橙''活動 / 長者義剪頭髮活動 / 中秋義派月餅活動， 令學員感受社會不同階層的情況。</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px",
+              "color": "#ff0066"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-19",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Namaste Taekwondo Team",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1t",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>在2008年設立''Namaste\nTaekwondo Team'' 專注教授(義務教授)南亞裔小眾，\n藉此令隊員強身健體及尊守紀律外，希望隊員以跆拳道\n為踏腳石改變人生，亦令大眾改變對他們觀感。</p>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15672596-749483105204795-6006552885689372501-n-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15672596-749483105204795-6006552885689372501-n-2000x2666.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10407827-10152511612747267-7011960466373742865-n-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10407827-10152511612747267-7011960466373742865-n-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/antonio-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-antonio-2000x2666.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2000x3057-800x1222.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x3057.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20161030-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20161030-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/-2000x1500.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15541707-747971478689291-963260418714661024-n-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15541707-747971478689291-963260418714661024-n-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-1h",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1d",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ff0066",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/tin-shing-logo-128x134.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<br><a href=\"home.html\" class=\"text-white\">關於我們</a><br><br><a href=\"serve.html\" class=\"text-white\">教授課程</a><br>",
+          "text2": "<p><br>\n<a href=\"responsibility.html\" class=\"text-white\">社會責任</a><br><br><a href=\"news.html\" class=\"text-white\">道場資訊</a></p>",
+          "text3": "<br>Email:&nbsp;master@tinshing.com.hk<br>Phone: +852 9770 4642<br><a href=\"https://www.facebook.com/tinshing.dojang/?fref=ts\" class=\"text-white\">facebook</a><br><a href=\"https://www.instagram.com/master_moonwing/\" target=\"_blank\" class=\"text-white\">instagram</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1e",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#190073",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Tin Shing Dojang."
+        }
+      ]
+    },
+    "home.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": false,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">天盛道場</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">關於我們</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home.html\">道場會訓</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home.html#header3-5\">教學目的</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home.html#header3-7\">本會架構</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">教授課程</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"serve.html#header3-l\">本會道場</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"serve.html#header3-o\">教練資歷</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">社會責任</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"responsibility.html#header3-16\">Love &amp; Cares</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"responsibility.html#header3-19\">NamasteTaekwondo Team</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">道場資訊</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news.html#header3-1k\">獎項及相片集</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news.html#header3-1m\">推薦信</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/tinshing.dojang/?fref=ts\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/master_moonwing/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:master@tinshing.com.hk\" aria-expanded=\"false\"><span class=\"socicon socicon-mail mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/ts-cover-2000x1334.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.1",
+            "overlayColor": "#ff0066",
+            "contentAlign": "center",
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "FULL SCREEN INTRO",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px",
+              "color": "#ff0066"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "道場會訓",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box5-3",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-20170419-wa0136-1400x1050.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "天盛道場(下稱本會)由張滿榮及余振豪創立，兩位\n自退役後專注教授跆拳道。在2008年設立''Namaste\nTaekwondo Team'' 專注教授(義務教授)南亞裔小眾，希望隊員以跆拳道為踏腳石改變人生，亦令大眾改變對他們觀感。\n除南亞裔跆拳道班外，本會於2015年開辦其他課\n程，如: 弱智人士班(義務教授)及幼童班。本會與''弱智人士家長聯會''合作舉辦跆拳道短期課程，希望學員可\n接觸更多不同類型體育活動。課程除帶給學員健康體格外，更建立自信心。\n而跆拳道幼童班專為幼稚園K1~K2小朋友而設，用趣味活動加入跆拳道元素，\n主打訓練大小肌肉及紀律。社區義務活動是本會主力發展項目之一，帶領學員\n參與各類型義工活動。另外舉辦多次''派\n橙''活動 / 長者義剪頭髮活動 / 中秋義派月餅活動，\n令學員感受社會不同階層的情況。<br>感受及學習本會會\n訓 : <b>天盛道場 行俠杖義</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials2",
+          "_styles": {
+            ".card-block P": {
+              "font-size": "17px"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<p>'' <b>行俠杖義</b> '' 看來很有武俠小說味道，可能給家長們打打殺殺的感覺。\n不同年代對同一詞語會有不同的演繹。</p><p>天盛道場以體育運動結集不同階層人士，舉辦/\n參與 社區義工服務活動。亦會以有限的力量捐助香\n港以外有需要的小朋友。我們於2016年已捐贈 文具及拖鞋 到菲律賓山區學童。而本會亦於宣明會捐助非洲小朋友''ANTONIO''。令天盛道場的精神得以推廣至全世界 。希望藉此結集更多人力，發揮\n天盛精神，將愛傳開去!</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/cmw-1-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "張滿榮",
+              "authorBio": "館長"
+            }
+          ],
+          "_anchor": "testimonials2-c",
+          "_params": {
+            "count": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showSubtitle": false
+          },
+          "title": "WHAT OUR FANTASTIC USERS SAY",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px",
+              "color": "#ff0066"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "教學目的",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-6",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/20161214-1400x787.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "學校推行了一人一藝術已有一段時間。跆拳道\n跟其他的藝術相較之下亦不遜色，憑藉學習跆拳道，可培養學生的堅毅、果敢的決心、歸屬\n感及團隊精神，令他們擁有強健體魄，冀能終生受益。<br>藉著此項計劃令學生認識及體會跆拳道的樂趣，\n並從學習跆拳道當中延伸成為一種良好之德育風氣。<br>透過活動課程，可以使參與的學校/社區團體有一個完整及長期性計劃，如此項計劃順利推行，將可吸引更多學生參與，感受箇中\n樂趣。使學校/社區團體有更多資源可發展在學生學業成績上。<br>跆拳道可以舒展身心，激發意志和\n堅強信念，能培養成良好學習精神，\n更會令貴校學生品格提升。<br>老師及家長可透過有形或無形的參與，對學生的個性、才能，有較深入\n的認識和了解，而學生更能學習人際\n關係之維持及溝通。<br>透過廣泛推廣，可以培養學生對社\n會的歸屬感及團隊精神，令各人相處\n融洽、教學及組織能力達到事半功倍效益。<br>學生練習跆拳道，可減輕及紓緩學業及生活壓力，令學生身心健康，更能專心課堂學習。",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px",
+              "color": "#ff0066"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-7",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "本會架構",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content7-g",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>會長</b></p><p>鈕建業師範 ( 天盛跆拳道會 黑帶八段 )&nbsp;</p><p>王婉兒女士 ( 其豐針業有限公司 )</p><p>蔡偉光先生 ( 發興行石油產品有限公司 )&nbsp;</p><p>黃植之先生( 新御足宛有限公司 )</p><p><br></p><p><b>會長</b></p><p>陳志偉醫生 ( 恩澤醫務所 )</p><p>郭修忠醫生 ( 甯健中醫診所 )</p><p><br></p><p><b>總監</b></p><p>蔡德昌師範\n( 天盛跆拳道會 黑帶六段 )</p>",
+          "text2": "<p><b>館長</b></p><p>張滿榮師範 ( 天盛跆拳道會 黑帶七段 )&nbsp;</p><p>余振豪師範 ( 天盛跆拳道會 黑帶七段 )</p><p><br></p><p><b>副館長</b></p><p>胡莉明師範 ( 天盛跆拳道會 黑帶五段 )</p><p>陳容川師範 ( 天盛跆拳道會 黑帶五段 )</p><p><br></p><p><b>體適能顧問</b></p><p>何翹原教練 ( 天盛跆拳道會 黑帶一段 )</p>",
+          "text3": "<p><b>西醫顧問</b></p><p>陳志偉醫生</p><p><br></p><p><b>中醫顧問</b></p><p>郭修忠醫生</p><p><br></p><p><b>壽險顧問</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">陳敏兒女士</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>合作團體</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">新家園</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">協會弱智人士家長聯會</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">青衣商會小學</span><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-9",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ff0066",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/tin-shing-logo-128x134.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<br><a href=\"home.html\" class=\"text-white\">關於我們</a><br><br><a href=\"serve.html\" class=\"text-white\">教授課程</a><br>",
+          "text2": "<p><br>\n<a href=\"responsibility.html\" class=\"text-white\">社會責任</a><br><br><a href=\"news.html\" class=\"text-white\">道場資訊</a></p>",
+          "text3": "<br>Email:&nbsp;master@tinshing.com.hk<br>Phone: +852 9770 4642<br><a href=\"https://www.facebook.com/tinshing.dojang/?fref=ts\" class=\"text-white\">facebook</a><br><a href=\"https://www.instagram.com/master_moonwing/\" target=\"_blank\" class=\"text-white\">instagram</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-a",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#190073",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Tin Shing Dojang."
+        }
+      ]
+    },
+    "news.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "72px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1i",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "4",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/ts-cover4-1-2000x1334.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0",
+            "overlayColor": "#ff0066",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "<span style=\"line-height: 1.1;\">道場資訊</span><br>",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-1j",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": false,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">天盛道場</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">關於我們</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home.html\">道場會訓</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home.html#header3-5\">教學目的</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home.html#header3-7\">本會架構</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">教授課程</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"serve.html#header3-l\">本會道場</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"serve.html#header3-o\">教練資歷</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">社會責任</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"responsibility.html#header3-16\">Love &amp; Cares</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"responsibility.html#header3-19\">NamasteTaekwondo Team</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">道場資訊</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news.html#header3-1k\">獎項及相片集</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news.html#header3-1m\">推薦信</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/tinshing.dojang/?fref=ts\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/master_moonwing/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:master@tinshing.com.hk\" aria-expanded=\"false\"><span class=\"socicon socicon-mail mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px",
+              "color": "#ff0066"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1k",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "獎項及相片集",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "content6-1s",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>品勢賽</b></p><p>2008年 香港跆拳道協會套拳賽 AF女子色帶組 - 季軍 – 黃敏瑜</p><p><br></p><p>2009年 香港跆拳道協會套拳賽女子黑帶二段組- 冠軍軍 – 楊玉婷</p><p><br></p><p>2010年 香港跆拳道協會套拳賽 男子黑帶一段組 - 季軍 – 陳容川</p><p>香港跆拳道協會套拳賽 女子黑帶三段組 - 亞軍 – 胡莉明</p><p>2011年 香港跆拳道協會套拳賽男子黑帶二段組 - 冠軍 – 陳容川</p><p>全港跆拳道套拳賽男子色帶組 B2M 季軍 - 丁梓倫</p><p><br></p><p>2012年 香港跆拳道協會套拳賽男子黑帶三段組 - 季軍 – 羅振聲</p><p>香港跆拳道協會套拳賽 AM男子色帶組 - 冠軍 – 張祖男</p><p><br></p><p>2013年 香港跆拳道協會套拳賽 C5F女子色帶組 - 季軍 – 黃燕明</p><p>全港跆拳道套拳賽男子色帶組 C5M 亞軍 - 潘栢希</p><p><br></p><p>2014年 香港跆拳道協會套拳賽 C7F女子色帶組 - 亞軍 – 黃偉瑩</p><p>2015年 全港跆拳道套拳賽男子色帶組 C7M - 冠軍- CHANROOP SINGH</p>",
+          "text2": "<p><b>競技賽</b></p><p>2008年 中學隊際跆拳道賽男子色帶組羽量級 – 季軍 鐘玉興(東華三院陳兆民中學)</p><p>深水涉區跆拳道賽女子色帶組沉量級 – 亞軍 莫潔瑩</p><p><br></p><p>2009年 中銀香港第52屆體育節 - 跆拳道男子色帶賽重量級(B組) - 冠軍 - 溫柱堅</p><p>中銀香港第52屆體育節 - 跆拳道男子色帶賽中量級(B組) - 季軍 - 陳志豪</p><p>香港跆拳道協會女子跆拳道比賽 - 女童色帶CC組輕重量級 - 亞軍 - 龔子惠</p><p>第一屆新界區隊制跆拳道比賽 - 女子色帶15-17歲亞軍 - 龔子惠(西貢區代表)</p><p>第一屆新界區隊制跆拳道比賽 - 女子色帶10-12歲- 冠軍 – 郭鈞詠(西貢區代表)</p><p>屯門隊制跆拳道比賽 - 女子色帶14歲及以上( 49kg - 54kg ) - 冠軍 – 龔子惠</p><p><br></p><p>2010年 中學隊制跆拳道比賽 - 女子色帶( 49kg - 54kg ) - 冠軍 – 龔子惠(路德會協同中學)</p><p>國際會黑帶邀請賽 - 女子青少年組( 53kg - 56kg ) - 冠軍 - 龔子惠</p><p>中銀香港第52屆體育節 - 跆拳道男子色帶賽2010 重量級(B組) - 冠軍 - 溫柱堅</p><p>中銀香港第52屆體育節 - 跆拳道男子色帶賽2010 重量級(B組) - 季軍 - 石嘉恆</p><p>香港跆拳道協會青少年跆拳道比賽2010 A組沉量級(Welter) - 亞軍 - 龔子傑</p><p>全港青少年跆拳道比賽2010 A組輕量級(Light) - 季軍 - 黃浩澎</p><p>中學隊制跆拳道比賽 - 女子色帶FIN WEIGHT- 季軍 – 郭鈞詠(中華基督教會基道中學)</p><p><br></p><p>2011年 香港跆拳道協會女子跆拳道比賽女子兒童CC組羽量級(37-40KG) - 季軍郭鈞詠</p><p>香港跆拳道協會小學跆拳道隊際賽男子色帶B組 輕中量級 - 季軍 – 黃浩澎(英華小學)</p><p>&nbsp;</p><p>2012年 屯門青少年隊制跆拳道比賽2011 - 女子青年黑帶組 52-57KG - 龔子惠 (冠軍)</p><p>香港跆拳道協會青少年跆拳道比賽 - 男子兒童B組(10-12歲) FIN 亞軍 - 伍栓銳</p><p>香港跆拳道協會青少年跆拳道比賽 - 男子兒童B組(10-12歲)LIGHT HEAVY季軍-黃浩澎&nbsp;</p><p>香港跆拳道協會小學跆拳道比賽 - 男子兒童B組(10-12歲) FIY 亞軍 - 伍栓銳</p><p>香港跆拳道協會小學跆拳道比賽 - 男子兒童B組(10-12歲) Bantam季軍 – 蘇偉進</p><p><br></p><p>2013年 香港跆拳道協會青少年跆拳道比賽 - 男子兒童B組(10-12歲)32KG-35KG 冠軍 - 伍栓銳</p><p><br></p><p>2015年 體育節跆拳道賽男子色帶C組（12-15歲）Light Heavy 季軍 - 龔子傑&nbsp;</p>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cd2016-o5a5z-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cd2016-o5a5z-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fb-img-2000x2995-800x1198.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fb-img-2000x2995.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10614202-405546669598442-2579352385740389733-n-2000x2990-800x1196.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10614202-405546669598442-2579352385740389733-n-2000x2990.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fb-img-2000x1329-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fb-img-2000x1329.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fb-img-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fb-img-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2000x1679-800x671.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x1679.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15697466-750821725070933-3354916952641544242-n-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15697466-750821725070933-3354916952641544242-n-2000x2666.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10924793-10152563273762267-5965352090539376051-n-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10924793-10152563273762267-5965352090539376051-n-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11222603-532554843564290-128323852523094703-o-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/11222603-532554843564290-128323852523094703-o-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-1r",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px",
+              "color": "#ff0066"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1m",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "推薦信",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/chanroop-2000x2755-800x1102.jpg",
+                "image": "@PROJECT_PATH@/assets/images/chanroop-2000x2755.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kakio-tkd-club-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kakio-tkd-club-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2000x3095-800x1238.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x3095.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2000x2778-800x1111.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x2778.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2000x2978-800x1191.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x2978.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2000x1423-800x569.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x1423.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-1o",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1p",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ff0066",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/tin-shing-logo-128x134.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<br><a href=\"home.html\" class=\"text-white\">關於我們</a><br><br><a href=\"serve.html\" class=\"text-white\">教授課程</a><br>",
+          "text2": "<p><br>\n<a href=\"responsibility.html\" class=\"text-white\">社會責任</a><br><br><a href=\"news.html\" class=\"text-white\">道場資訊</a></p>",
+          "text3": "<br>Email:&nbsp;master@tinshing.com.hk<br>Phone: +852 9770 4642<br><a href=\"https://www.facebook.com/tinshing.dojang/?fref=ts\" class=\"text-white\">facebook</a><br><a href=\"https://www.instagram.com/master_moonwing/\" target=\"_blank\" class=\"text-white\">instagram</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1q",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#190073",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Tin Shing Dojang."
+        }
+      ]
+    }
+  }
+}
