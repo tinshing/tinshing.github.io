@@ -500,6 +500,7 @@ h6,
 }
 #features2-12 .mbr-cards-col:nth-child(odd) .card-text {
   color: #000000;
+  font-size: 15px;
 }
 #features2-12 .mbr-cards-col:nth-child(odd) .card-title {
   color: #000000;
@@ -509,6 +510,9 @@ h6,
 }
 #features2-12 .mbr-cards-col:nth-child(even) .card-subtitle {
   color: #000000;
+}
+#features2-12 .mbr-cards-col:nth-child(even) .card-text {
+  font-size: 15px;
 }
 #features2-v .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #ffffff;
@@ -521,9 +525,11 @@ h6,
 }
 #features2-v .mbr-cards-col:nth-child(odd) .card-text {
   color: #000000;
+  font-size: 15px;
 }
 #features2-v .mbr-cards-col:nth-child(even) .card-text {
   color: #000000;
+  font-size: 15px;
 }
 #features2-v .mbr-cards-col:nth-child(odd) .card-subtitle {
   color: #000000;

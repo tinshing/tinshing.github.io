@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "home.html",
+    "currentPage": "serve.html",
     "name": "tinshing.com.hk",
     "theme": {
       "name": "mobirise3",
@@ -24,7 +24,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 69,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/tin-shing-icon-red-128x127.png",
+    "favicon": "@PROJECT_PATH@/assets/images/tin-shing-icon-red-128x127-1.png",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": ""
@@ -199,7 +199,8 @@
               "background-color": "#efefef"
             },
             ".mbr-cards-col:nth-child(odd) .card-text": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "15px"
             },
             ".mbr-cards-col:nth-child(odd) .card-title": {
               "color": "#000000"
@@ -209,6 +210,9 @@
             },
             ".mbr-cards-col:nth-child(even) .card-subtitle": {
               "color": "#000000"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "font-size": "15px"
             }
           },
           "_anchor": "features2-12",
@@ -245,7 +249,7 @@
               "family": "et-line"
             }
           },
-          "title1": "青衣幼童跆拳道班",
+          "title1": "青衣 幼童跆拳道班",
           "subtitle1": "逢星期三下午3時至4時",
           "caption1": "青衣體育館舞蹈室",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -259,7 +263,7 @@
               "family": "et-line"
             }
           },
-          "title2": "青衣小童跆拳道班",
+          "title2": "青衣 小童跆拳道班",
           "subtitle2": "逢星期五下午4時至5時30",
           "caption2": "青衣楓樹窩體育館活動室",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -289,7 +293,7 @@
           },
           "title4": "雅麗珊社區中心跆拳道",
           "subtitle4": "逢星期日晚上7時至8時30",
-          "caption4": "荃灣大河道60號雅麗珊社區中心會議室",
+          "caption4": "荃灣大河道60號<br>雅麗珊社區中心會議室",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -303,7 +307,7 @@
           },
           "title5": "跆拳道集訓班",
           "subtitle5": "逢星期日晚上8時30至10時",
-          "caption5": "荃灣大河道60號雅麗珊社區中心會議室",
+          "caption5": "荃灣大河道60號<br>雅麗珊社區中心會議室",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "iconFont": {
@@ -337,10 +341,12 @@
               "color": "#000000"
             },
             ".mbr-cards-col:nth-child(odd) .card-text": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "15px"
             },
             ".mbr-cards-col:nth-child(even) .card-text": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "15px"
             },
             ".mbr-cards-col:nth-child(odd) .card-subtitle": {
               "color": "#000000"
@@ -385,7 +391,7 @@
           },
           "title1": "尖沙咀脊醫中心&nbsp;<div>小組健體班</div>",
           "subtitle1": "逢星期一晚上7時",
-          "caption1": "九龍尖沙咀加拿分兗18號恆生尖沙咀大廈1108室",
+          "caption1": "九龍尖沙咀加拿分道18號<br>恆生尖沙咀大廈1108室",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -399,7 +405,7 @@
           },
           "title2": "尖沙咀脊醫中心&nbsp;<div>團體健體班</div>",
           "subtitle2": "逢星期五晚上7時至10時",
-          "caption2": "香港九龍青山道646號豐華工業大廈三樓B座",
+          "caption2": "香港九龍青山道646號<br>豐華工業大廈三樓B座",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -413,7 +419,7 @@
           },
           "title3": "石硤尾 香港弱智人士家長聯會跆拳道班",
           "subtitle3": "逢星期三晚上7時至8時30",
-          "caption3": "石硤尾南山邨香港弱智人士家長聯會毅行者社區教育中心",
+          "caption3": "石硤尾南山邨<br>香港弱智人士家長聯會毅行者社區教育中心",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -427,7 +433,7 @@
           },
           "title4": "葵涌 樂智協會<div>跆拳道班</div>",
           "subtitle4": "逢星期三下午5時至6時",
-          "caption4": "葵涌大窩口道15號大窩口社區中心地下",
+          "caption4": "葵涌大窩口道15號<br>大窩口社區中心地下",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -439,9 +445,9 @@
               "family": "et-line"
             }
           },
-          "title5": "灣仔 香港唐氏綜合症考會<div>跆拳道班</div>",
+          "title5": "灣仔 香港唐氏綜合症<br>考會<span style=\"font-size: 1.25rem; line-height: 1.2825;\">跆拳道班</span>",
           "subtitle5": "逢星期一下午五時至六時",
-          "caption5": "灣仔 軒尼詩道199-203號東華大廈1303-1304室",
+          "caption5": "灣仔 軒尼詩道199-203號<br>東華大廈1303-1304室",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "iconFont": {
