@@ -24,7 +24,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 69,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/tin-shing-logo-red-128x134.png",
+    "favicon": "@PROJECT_PATH@/assets/images/tin-shing-icon-red-128x127.png",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": ""
